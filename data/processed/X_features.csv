@@ -1,0 +1,220 @@
+Axillary_lymphadenectomy,Surgery,Age,Educational_level,Chemotherapy_regimen,Radiotherapy,Occupational_status ,Children,TNM_stage,EORTC_baseline,ECOG,HER2,Marital_status,Perceived_risk_recurrence
+No,BSC,60,Other,Taxane-based,Yes,Employed,2,II,62.46,0,Negative,Married/partnered,High
+No,BSC,51,Other,Taxane-based,Yes,Not employed,> 2 children,I,83.93,0,Positive,Married/partnered,High
+No,Mastectomy,46,Other,Taxane-based,Yes,Employed,2,II,74.16,0,Negative,Married/partnered,Very high
+No,Mastectomy,43,Other,Taxane-based,No,Not employed,2,I,52.32,0,Positive,Married/partnered,High
+No,Mastectomy,74,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,I,80.3,0,Negative,Single,Very high
+No,BSC,65,Other,Taxane-based,Yes,Not employed,0,II,60.0,1,Negative,Married/partnered,Very high
+No,BSC,33,Other,Taxane-based,Yes,Not employed,0,I,93.33,0,Positive,Single,High
+No,BSC,36,Other,Taxane-based,Yes,Not employed,0,II,82.35,0,Positive,Married/partnered,High
+No,BSC,60,Other,Taxane-based,Yes,Employed,> 2 children,II,80.25,0,Negative,Married/partnered,High
+No,BSC,57,Other,Taxane-based,Yes,Employed,2,III,77.09,0,Negative,Married/partnered,Medium
+No,Mastectomy,50,Other,Taxane-based,No,Employed,> 2 children,II,91.22,0,Negative,Married/partnered,High
+Yes,Mastectomy,44,Other,Taxane-based,Yes,Not employed,1,II,74.23,0,Negative,Married/partnered,Very high
+No,BSC,48,Other,Anthracycline-based   ,No,Employed,> 2 children,II,76.85,0,Negative,Married/partnered,Very high
+No,BSC,46,Other,Anthracycline-based   ,No,Employed,2,I,81.98,0,Positive,Married/partnered,Medium
+Yes,Mastectomy,32,Other,Taxane-based,Yes,Employed,2,III,81.33,0,Negative,Married/partnered,High
+No,Mastectomy,50,Other,Taxane-based,Yes,Not employed,2,II,64.31,0,Negative,Married/partnered,High
+No,Mastectomy,51,Secondary or higher education,Taxane-based,Yes,Employed,2,III,81.62,0,Negative,Married/partnered,Very high
+No,BSC,43,Other,Anthracycline-based   ,Yes,Employed,> 2 children,I,81.58,0,Positive,Married/partnered,Medium
+No,Mastectomy,59,Other,Taxane-based,Yes,Employed,> 2 children,III,63.41,0,Negative,Married/partnered,Very high
+No,Mastectomy,53,Secondary or higher education,Taxane-based,No,Not employed,2,I,90.11,0,Negative,Single,Very high
+No,Mastectomy,51,Other,Anthracycline-based   ,Yes,Employed,2,I,78.09,0,Negative,Married/partnered,High
+No,BSC,58,Other,Taxane-based,Yes,Employed,2,I,85.02,0,Positive,Married/partnered,High
+No,BSC,47,Other,Taxane-based,Yes,Not employed,1,II,90.99,0,Positive,Married/partnered,Medium
+Yes,BSC,28,Other,Taxane-based,Yes,Not employed,0,II,60.9,0,Negative,Married/partnered,Medium
+No,Mastectomy,28,Other,Taxane-based,No,Not employed,2,I,85.92,0,Negative,Married/partnered,High
+Yes,BSC,32,Other,Anthracycline-based   ,Yes,Employed,2,III,71.32,0,Negative,Married/partnered,High
+No,BSC,39,Secondary or higher education,Taxane-based,Yes,Employed,2,II,71.23,0,Negative,Married/partnered,Medium
+No,BSC,69,Secondary or higher education,Taxane-based,Yes,Employed,> 2 children,II,57.39,1,Negative,Single,High
+No,BSC,43,Other,Taxane-based,Yes,Employed,0,II,88.48,0,Negative,Married/partnered,High
+No,BSC,51,Secondary or higher education,Taxane-based,Yes,Not employed,2,I,58.81,0,Positive,Single,Medium
+No,Mastectomy,46,Other,Taxane-based,No,Not employed,2,I,87.72,0,Positive,Married/partnered,Medium
+No,BSC,52,Other,Taxane-based,Yes,Employed,2,I,90.74,1,Negative,Married/partnered,High
+No,BSC,47,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,1,II,81.24,0,Negative,Single,High
+No,Mastectomy,43,Secondary or higher education,Taxane-based,No,Not employed,2,II,65.82,0,Positive,Married/partnered,Medium
+No,Mastectomy,76,Other,Anthracycline-based   ,Yes,Employed,0,II,91.11,2,Negative,Single,High
+Yes,BSC,55,Other,Taxane-based,Yes,Employed,2,III,61.0,0,Positive,Married/partnered,Very high
+No,Mastectomy,69,Other,Taxane-based,No,Employed,2,II,73.6,1,Positive,Married/partnered,High
+No,BSC,64,Other,Taxane-based,No,Employed,0,I,60.73,1,Negative,Married/partnered,Very high
+No,Mastectomy,57,Other,Taxane-based,Yes,Not employed,2,II,55.73,0,Negative,Married/partnered,High
+No,BSC,45,Other,Taxane-based,Yes,Employed,0,II,60.07,1,Negative,Single,High
+No,BSC,53,Other,Taxane-based,Yes,Not employed,1,II,85.45,0,Negative,Married/partnered,Very high
+No,Mastectomy,35,Other,Taxane-based,Yes,Not employed,1,II,68.37,0,Negative,Married/partnered,Very high
+No,Mastectomy,52,Other,Taxane-based,No,Employed,2,II,62.64,0,Negative,Married/partnered,High
+No,BSC,65,Other,Taxane-based,Yes,Employed,> 2 children,II,91.44,1,Negative,Married/partnered,Very high
+No,BSC,49,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,II,76.48,0,Negative,Married/partnered,Very high
+Yes,Mastectomy,46,Other,Anthracycline-based   ,No,Employed,1,I,72.7,0,Negative,Married/partnered,Medium
+No,BSC,46,Secondary or higher education,Anthracycline-based   ,No,Not employed,0,I,90.74,0,Positive,Married/partnered,Low
+Yes,Mastectomy,50,Secondary or higher education,Anthracycline-based   ,No,Not employed,1,I,71.59,0,Negative,Married/partnered,High
+No,BSC,40,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,1,I,59.05,0,Positive,Married/partnered,Medium
+No,Mastectomy,59,Secondary or higher education,Taxane-based,No,Employed,1,II,71.02,0,Negative,Single,High
+No,BSC,41,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,I,71.12,0,Positive,Married/partnered,High
+No,BSC,45,Secondary or higher education,Anthracycline-based   ,Yes,Employed,2,I,83.64,0,Positive,Married/partnered,Medium
+No,Mastectomy,50,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,II,67.35,0,Negative,Married/partnered,Medium
+No,BSC,75,Other,Taxane-based,Yes,Employed,> 2 children,I,87.45,0,Positive,Single,High
+No,Mastectomy,64,Other,Anthracycline-based   ,No,Employed,1,I,91.67,0,Negative,Married/partnered,High
+Yes,BSC,55,Other,Taxane-based,No,Not employed,1,II,66.9,0,Negative,Married/partnered,High
+No,BSC,45,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,1,I,50.0,0,Negative,Married/partnered,Very high
+No,BSC,47,Secondary or higher education,Anthracycline-based   ,Yes,Employed,0,I,81.43,0,Positive,Married/partnered,High
+Yes,BSC,51,Secondary or higher education,Taxane-based,Yes,Not employed,2,III,85.31,0,Negative,Married/partnered,Very high
+Yes,Mastectomy,62,Other,Taxane-based,Yes,Employed,1,II,87.78,1,Negative,Married/partnered,High
+No,Mastectomy,43,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,70.34,0,Negative,Married/partnered,High
+No,BSC,60,Other,Taxane-based,Yes,Not employed,1,I,75.78,0,Negative,Married/partnered,Very high
+No,BSC,49,Secondary or higher education,Taxane-based,Yes,Not employed,1,III,76.4,1,Negative,Single,Very high
+Yes,BSC,66,Secondary or higher education,Taxane-based,Yes,Employed,0,III,83.65,1,Negative,Single,High
+Yes,Mastectomy,64,Other,Anthracycline-based   ,Yes,Employed,2,II,84.61,0,Negative,Married/partnered,Medium
+No,Mastectomy,52,Secondary or higher education,Taxane-based,No,Not employed,1,II,63.84,1,Negative,Married/partnered,High
+No,Mastectomy,56,Other,Anthracycline-based   ,No,Employed,> 2 children,I,50.29,1,Negative,Single,Very high
+No,Mastectomy,57,Secondary or higher education,Taxane-based,No,Not employed,0,II,70.28,1,Negative,Married/partnered,Very high
+No,BSC,56,Other,Anthracycline-based   ,Yes,Employed,2,I,53.47,0,Positive,Married/partnered,Medium
+No,Mastectomy,43,Other,Anthracycline-based   ,No,Employed,2,II,24.85,0,Negative,Married/partnered,Very high
+No,Mastectomy,45,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,II,69.45,0,Negative,Married/partnered,Very high
+No,BSC,71,Other,Anthracycline-based   ,Yes,Employed,0,I,68.4,0,Positive,Single,High
+No,Mastectomy,48,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,II,59.8,0,Positive,Married/partnered,Medium
+Yes,Mastectomy,74,Secondary or higher education,Taxane-based,Yes,Not employed,,II,79.05,0,Negative,Married/partnered,Very high
+No,BSC,49,Secondary or higher education,Taxane-based,No,Not employed,> 2 children,I,95.06,0,Positive,Married/partnered,Very high
+Yes,BSC,57,Secondary or higher education,Taxane-based,Yes,Employed,> 2 children,II,65.3,0,Negative,Married/partnered,Very high
+No,BSC,53,Other,Taxane-based,Yes,Not employed,2,II,73.03,0,Negative,Married/partnered,Very high
+No,BSC,45,Other,Taxane-based,Yes,Employed,> 2 children,II,70.3,0,Negative,Married/partnered,Very high
+No,BSC,32,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,72.87,0,Negative,Married/partnered,Medium
+Yes,BSC,69,Other,Anthracycline-based   ,No,Employed,2,II,81.6,0,Negative,Married/partnered,Medium
+Yes,BSC,63,Other,Anthracycline-based   ,No,Employed,2,II,85.98,0,Negative,Married/partnered,Very high
+No,BSC,37,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,59.56,0,Negative,Married/partnered,Medium
+No,BSC,61,Secondary or higher education,Anthracycline-based   ,Yes,Employed,> 2 children,I,74.81,0,Positive,Single,Medium
+No,BSC,46,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,52.87,1,Negative,Single,High
+No,Mastectomy,48,Other,Anthracycline-based   ,No,Employed,> 2 children,II,57.46,1,Negative,Married/partnered,Very high
+No,Mastectomy,53,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,I,70.23,1,Positive,Married/partnered,Very high
+Yes,Mastectomy,40,Secondary or higher education,Taxane-based,Yes,Employed,2,II,71.98,1,Negative,Married/partnered,High
+Yes,BSC,51,Secondary or higher education,Taxane-based,Yes,Not employed,2,III,70.72,1,Negative,Married/partnered,Very high
+No,Mastectomy,46,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,I,80.19,1,Negative,Married/partnered,Medium
+Yes,Mastectomy,68,Secondary or higher education,Taxane-based,Yes,Employed,0,III,89.86,0,Negative,Single,Very high
+No,BSC,56,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,2,I,83.56,0,Positive,Married/partnered,Medium
+No,BSC,62,Other,Taxane-based,Yes,Employed,0,II,87.12,0,Negative,Single,Medium
+No,BSC,68,Other,Taxane-based,Yes,Employed,2,I,88.64,1,Negative,Married/partnered,Medium
+No,BSC,61,Secondary or higher education,Anthracycline-based   ,No,Not employed,0,II,82.92,0,Negative,Single,Very high
+No,BSC,41,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,1,I,57.19,0,Positive,Married/partnered,Very high
+Yes,Mastectomy,55,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,84.03,0,Negative,Married/partnered,Very high
+No,BSC,53,Secondary or higher education,Taxane-based,Yes,Employed,1,I,82.1,1,Negative,Married/partnered,Very high
+Yes,Mastectomy,59,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,42.59,1,Negative,Single,Very high
+No,BSC,56,Other,Taxane-based,Yes,Not employed,0,II,92.1,0,Negative,Single,Medium
+No,BSC,56,Other,Taxane-based,Yes,Employed,> 2 children,I,71.3,1,Negative,Married/partnered,Low
+No,Mastectomy,47,Other,Anthracycline-based   ,No,Employed,2,II,77.56,0,Positive,Married/partnered,Medium
+No,BSC,74,Other,Anthracycline-based   ,Yes,Employed,> 2 children,I,75.61,0,Negative,Single,High
+No,BSC,47,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,68.7,0,Negative,Married/partnered,High
+No,BSC,68,Other,Taxane-based,Yes,Employed,> 2 children,I,85.65,0,Negative,Married/partnered,Very high
+Yes,BSC,51,Other,Anthracycline-based   ,No,Not employed,> 2 children,II,74.16,0,Negative,Married/partnered,Very high
+Yes,BSC,57,Secondary or higher education,Anthracycline-based   ,No,Employed,2,II,74.16,0,Negative,Single,Very high
+Yes,Mastectomy,43,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,I,76.61,0,Negative,Married/partnered,Medium
+Yes,Mastectomy,45,Secondary or higher education,Anthracycline-based   ,No,Not employed,2,II,88.79,0,Negative,Married/partnered,High
+Yes,Mastectomy,45,Secondary or higher education,Anthracycline-based   ,No,Not employed,0,II,73.7,0,Negative,Married/partnered,High
+Yes,Mastectomy,46,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,56.79,1,Negative,Married/partnered,High
+No,Mastectomy,47,Secondary or higher education,Anthracycline-based   ,No,Not employed,0,II,84.2,0,Negative,Married/partnered,High
+No,Mastectomy,55,Other,Taxane-based,No,Not employed,2,II,69.94,0,Negative,Married/partnered,Very high
+No,Mastectomy,38,Secondary or higher education,Taxane-based,No,Not employed,2,II,63.42,0,Negative,Married/partnered,Medium
+No,BSC,57,Secondary or higher education,Taxane-based,Yes,Employed,> 2 children,I,49.91,0,Positive,Married/partnered,Very high
+No,BSC,60,Secondary or higher education,Taxane-based,Yes,Not employed,2,I,66.15,0,Positive,Single,High
+No,BSC,62,Secondary or higher education,Taxane-based,No,Not employed,2,II,87.78,0,Negative,Single,High
+No,BSC,42,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,58.81,0,Negative,Married/partnered,High
+Yes,Mastectomy,62,Other,Taxane-based,Yes,Employed,2,III,56.27,1,Negative,Single,High
+No,BSC,59,Other,Taxane-based,Yes,Not employed,1,II,88.91,1,Negative,Married/partnered,High
+No,BSC,75,Other,Taxane-based,Yes,Employed,> 2 children,II,67.77,1,Negative,Single,Very high
+Yes,Mastectomy,42,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,60.6,1,Negative,Single,High
+No,BSC,68,Other,Taxane-based,Yes,Employed,2,I,75.48,1,Positive,Married/partnered,Medium
+Yes,Mastectomy,37,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,86.67,1,Negative,Married/partnered,Medium
+Yes,BSC,48,Other,Taxane-based,Yes,Employed,1,II,66.17,0,Negative,Married/partnered,Very high
+No,BSC,46,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,2,II,76.15,1,Negative,Married/partnered,High
+No,BSC,53,Other,Taxane-based,Yes,Not employed,1,II,73.66,0,Negative,Married/partnered,Very high
+No,Mastectomy,55,Secondary or higher education,Taxane-based,Yes,Employed,1,III,79.56,1,Negative,Married/partnered,Very high
+No,BSC,38,Secondary or higher education,Taxane-based,Yes,Not employed,> 2 children,II,88.35,0,Negative,Married/partnered,High
+No,BSC,71,Other,Taxane-based,Yes,Employed,> 2 children,II,74.79,0,Positive,Married/partnered,Very high
+No,BSC,60,Other,Anthracycline-based   ,Yes,Employed,> 2 children,I,75.65,0,Negative,Married/partnered,Very high
+No,Mastectomy,54,Other,Anthracycline-based   ,Yes,Not employed,2,II,84.61,0,Negative,Single,High
+No,Mastectomy,47,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,75.14,0,Negative,Married/partnered,Very high
+No,BSC,68,Other,Taxane-based,Yes,Employed,> 2 children,II,80.29,1,Negative,Single,High
+No,BSC,53,Other,Anthracycline-based   ,Yes,Not employed,2,I,53.69,0,Positive,Married/partnered,High
+No,BSC,48,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,67.73,1,Negative,Married/partnered,Medium
+Yes,Mastectomy,55,Secondary or higher education,Anthracycline-based   ,No,Not employed,1,II,71.94,1,Positive,Single,Medium
+Yes,Mastectomy,42,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,65.74,0,Negative,Married/partnered,High
+No,BSC,48,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,80.31,0,Negative,Single,Very high
+Yes,BSC,64,Other,Taxane-based,Yes,Employed,2,II,56.19,0,Negative,Married/partnered,High
+No,BSC,63,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,70.41,1,Positive,Married/partnered,Very high
+No,BSC,50,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,92.22,0,Negative,Married/partnered,Very high
+Yes,BSC,71,Other,Taxane-based,Yes,Employed,2,II,80.5,1,Negative,Married/partnered,High
+No,BSC,66,Other,Anthracycline-based   ,Yes,Employed,2,I,79.97,1,Positive,Married/partnered,Very high
+No,BSC,68,Secondary or higher education,Anthracycline-based   ,No,Employed,> 2 children,I,64.77,0,Positive,Married/partnered,High
+Yes,Mastectomy,45,Secondary or higher education,Taxane-based,No,Not employed,2,III,77.93,0,Negative,Married/partnered,Very high
+No,BSC,50,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,86.28,1,Negative,Married/partnered,High
+No,BSC,57,Other,Taxane-based,Yes,Employed,2,II,53.87,0,Negative,Married/partnered,Very high
+No,BSC,57,Other,Anthracycline-based   ,Yes,Employed,1,II,76.91,0,Negative,Married/partnered,Medium
+No,BSC,76,Other,Anthracycline-based   ,Yes,Employed,> 2 children,II,46.28,1,Positive,Single,High
+No,BSC,74,Other,Anthracycline-based   ,Yes,Employed,2,I,55.99,2,Positive,Married/partnered,High
+No,BSC,56,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,1,II,77.07,0,Negative,Married/partnered,Very high
+No,Mastectomy,80,Other,Anthracycline-based   ,Yes,Employed,2,III,74.91,1,Negative,Married/partnered,Very high
+No,BSC,53,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,52.65,0,Negative,Married/partnered,Very high
+No,BSC,74,Secondary or higher education,Taxane-based,No,Employed,0,II,79.75,1,Negative,Single,High
+No,Mastectomy,45,Other,Taxane-based,No,Employed,2,II,67.36,0,Negative,Married/partnered,High
+No,BSC,39,Secondary or higher education,Taxane-based,Yes,Employed,0,II,77.88,0,Negative,Married/partnered,High
+No,Mastectomy,44,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,57.17,1,Negative,Married/partnered,High
+No,BSC,60,Secondary or higher education,Taxane-based,Yes,Employed,2,II,75.96,0,Negative,Married/partnered,High
+No,Mastectomy,44,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,62.9,0,Negative,Married/partnered,Medium
+No,Mastectomy,63,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,49.69,1,Negative,Single,Very high
+No,Mastectomy,52,Secondary or higher education,Taxane-based,No,Not employed,1,I,70.0,0,Positive,Married/partnered,High
+No,BSC,45,Secondary or higher education,Taxane-based,No,Not employed,1,I,87.21,0,Positive,Married/partnered,Low
+No,BSC,54,Secondary or higher education,Taxane-based,Yes,Employed,0,II,65.01,1,Negative,Single,Very high
+No,BSC,54,Secondary or higher education,Taxane-based,Yes,Employed,2,II,83.63,1,Positive,Married/partnered,Very high
+No,BSC,46,Secondary or higher education,Taxane-based,Yes,Not employed,2,III,63.24,2,Negative,Married/partnered,Very high
+No,Mastectomy,55,Other,Taxane-based,No,Not employed,0,II,85.46,1,Negative,Single,Very high
+Yes,Mastectomy,66,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,91.22,0,Negative,Single,Very high
+Yes,BSC,43,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,44.56,0,Negative,Married/partnered,Very high
+No,BSC,68,Secondary or higher education,Taxane-based,Yes,Not employed,2,I,78.17,0,Negative,Married/partnered,High
+No,Mastectomy,58,Other,Taxane-based,Yes,Employed,2,II,68.25,0,Negative,Married/partnered,High
+Yes,Mastectomy,64,Secondary or higher education,Taxane-based,No,Employed,2,III,71.0,0,Negative,Married/partnered,Very high
+No,BSC,46,Secondary or higher education,Taxane-based,Yes,Not employed,0,I,85.06,0,Negative,Married/partnered,Very high
+Yes,Mastectomy,57,Secondary or higher education,Taxane-based,No,Employed,> 2 children,II,62.96,0,Negative,Single,Low
+No,BSC,40,Other,Taxane-based,Yes,Not employed,> 2 children,II,62.86,0,Negative,Married/partnered,Very high
+Yes,Mastectomy,55,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,2,II,32.16,0,Negative,Married/partnered,Very high
+No,BSC,59,Secondary or higher education,Anthracycline-based   ,Yes,Employed,0,I,53.93,0,Negative,Married/partnered,High
+No,Mastectomy,42,Secondary or higher education,Taxane-based,No,Employed,1,I,64.38,0,Negative,Married/partnered,Low
+No,BSC,64,Secondary or higher education,Taxane-based,Yes,Employed,0,I,74.76,0,Positive,Married/partnered,High
+No,Mastectomy,63,Other,Taxane-based,Yes,Employed,> 2 children,II,76.24,0,Negative,Married/partnered,Very high
+No,Mastectomy,67,Other,Anthracycline-based   ,No,Employed,> 2 children,I,43.39,0,Negative,Married/partnered,High
+No,BSC,44,Other,Taxane-based,Yes,Employed,2,I,53.25,0,Positive,Married/partnered,Very high
+Yes,Mastectomy,57,Secondary or higher education,Taxane-based,Yes,Not employed,> 2 children,III,68.35,0,Negative,Married/partnered,High
+No,Mastectomy,65,Other,Anthracycline-based   ,No,Employed,2,I,57.92,0,Positive,Single,Very high
+Yes,BSC,60,Other,Taxane-based,Yes,Not employed,2,III,74.35,0,Negative,Married/partnered,High
+Yes,Mastectomy,58,Secondary or higher education,Taxane-based,No,Not employed,1,III,92.21,0,Negative,Married/partnered,High
+Yes,BSC,65,Secondary or higher education,Taxane-based,Yes,Not employed,> 2 children,II,57.44,0,Negative,Single,Medium
+Yes,Mastectomy,53,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,92.1,0,Negative,Married/partnered,Very high
+No,Mastectomy,53,Other,Taxane-based,Yes,Employed,2,II,92.07,0,Negative,Married/partnered,Very high
+No,Mastectomy,56,Other,Taxane-based,No,Employed,2,II,73.42,0,Negative,Single,Very high
+No,Mastectomy,35,Other,Anthracycline-based   ,No,Not employed,2,II,71.4,0,Negative,Married/partnered,Medium
+Yes,Mastectomy,48,Secondary or higher education,Taxane-based,Yes,Not employed,> 2 children,III,60.26,1,Negative,Married/partnered,Very high
+Yes,BSC,38,Secondary or higher education,Taxane-based,Yes,Employed,2,III,64.2,1,Negative,Single,Very high
+No,Mastectomy,33,Secondary or higher education,Taxane-based,No,Not employed,0,II,74.44,0,Negative,Married/partnered,High
+Yes,Mastectomy,33,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,63.06,0,Negative,Married/partnered,Very high
+No,Mastectomy,68,Other,Anthracycline-based   ,No,Employed,> 2 children,II,66.78,0,Positive,Married/partnered,Low
+No,Mastectomy,46,Other,Taxane-based,No,Not employed,1,II,69.26,0,Negative,Married/partnered,High
+No,Mastectomy,49,Other,Taxane-based,No,Not employed,1,II,53.51,0,Negative,Married/partnered,High
+Yes,BSC,68,Other,Taxane-based,Yes,Employed,2,III,65.58,0,Negative,Married/partnered,High
+No,BSC,72,Other,Taxane-based,No,Employed,> 2 children,II,84.78,0,Negative,Married/partnered,Very high
+No,BSC,65,Other,Taxane-based,Yes,Employed,2,I,79.38,0,Positive,Married/partnered,Very high
+No,BSC,49,Secondary or higher education,Taxane-based,Yes,Not employed,2,I,82.48,0,Positive,Single,Very high
+Yes,Mastectomy,47,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,79.63,0,Negative,Married/partnered,High
+No,BSC,45,Secondary or higher education,Taxane-based,Yes,Employed,1,II,61.21,0,Negative,Single,Medium
+No,Mastectomy,52,Other,Taxane-based,Yes,Employed,0,II,66.75,0,Negative,Single,Very high
+Yes,BSC,57,Secondary or higher education,Taxane-based,Yes,Not employed,1,II,83.97,0,Negative,Married/partnered,Very high
+No,Mastectomy,69,Other,Taxane-based,No,Employed,2,I,77.64,0,Negative,Married/partnered,High
+No,BSC,51,Secondary or higher education,Anthracycline-based   ,Yes,Employed,1,II,66.8,0,Negative,Married/partnered,High
+No,BSC,56,Other,Taxane-based,Yes,Employed,2,I,75.23,0,Negative,Married/partnered,Very high
+No,BSC,44,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,74.72,0,Negative,Married/partnered,Medium
+No,BSC,54,Secondary or higher education,Taxane-based,Yes,Not employed,0,II,73.24,0,Negative,Single,High
+No,Mastectomy,51,Other,Anthracycline-based   ,No,Not employed,0,I,71.59,0,Positive,Married/partnered,High
+No,BSC,46,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,2,I,83.64,0,Positive,Married/partnered,Medium
+No,Mastectomy,51,Secondary or higher education,Taxane-based,No,Not employed,0,II,91.22,0,Negative,Married/partnered,High
+No,BSC,47,Other,Taxane-based,Yes,Not employed,2,II,90.99,0,Positive,Married/partnered,Medium
+No,BSC,50,Secondary or higher education,Anthracycline-based   ,No,Not employed,0,II,76.48,0,Negative,Married/partnered,Very high
+No,BSC,44,Secondary or higher education,Anthracycline-based   ,Yes,Not employed,2,I,81.58,0,Negative,Married/partnered,Medium
+No,Mastectomy,52,Secondary or higher education,Taxane-based,Yes,Not employed,1,I,83.93,0,Positive,Married/partnered,High
+No,Mastectomy,77,Other,Anthracycline-based   ,No,Not employed,2,II,65.82,2,Positive,Single,Medium
+No,BSC,70,Secondary or higher education,Taxane-based,Yes,Not employed,2,II,57.39,1,Negative,Single,High
